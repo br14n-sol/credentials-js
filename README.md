@@ -1,5 +1,5 @@
 <div align='center'>
-<img style='width: 80%;' alt='credentials-js.png' src='https://raw.githubusercontent.com/br14n-sol/brands/main/credentials-js.png'>
+<img style='width: 70%;' alt='credentials-js.png' src='https://raw.githubusercontent.com/br14n-sol/brands/main/credentials-js.png'>
 <div align='center'>
 
 ![License](https://img.shields.io/npm/l/credentials-js?style=for-the-badge&color=blue)
