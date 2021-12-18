@@ -1,0 +1,25 @@
+{
+  "name": "credentials-js",
+  "version": "0.0.1",
+  "description": "Simple authentication for Node.js",
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.mjs",
+  "types": "dist/types/index.d.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/br14n-sol/credentials-js.git"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Brian Fernandez",
+    "url": "https://twitter.com/br14n_sol"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/br14n-sol/credentials-js/issues"
+  },
+  "homepage": "https://github.com/br14n-sol/credentials-js#readme"
+}
