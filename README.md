@@ -1,6 +1,6 @@
-<header align='center'>
+<div align='center'>
 <img style='width: 80%;' alt='credentials-js.png' src='https://raw.githubusercontent.com/br14n-sol/brands/main/credentials-js.png'>
-<div>
+<div align='center'>
 
 ![License](https://img.shields.io/npm/l/credentials-js?style=for-the-badge&color=blue)
 ![Version](https://img.shields.io/npm/v/credentials-js?style=for-the-badge&color=blue)
@@ -11,4 +11,4 @@
 ![Maintenance](https://img.shields.io/npms-io/maintenance-score/credentials-js?style=for-the-badge&color=orange)
 
 </div>
-</header>
+</div>
